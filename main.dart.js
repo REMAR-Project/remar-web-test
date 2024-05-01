@@ -93375,10 +93375,10 @@ u3(){var s=0,r=A.O(t.H),q=this,p,o
 var $async$u3=A.P(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:p=A
 s=2
-return A.U(q.u0("assets/moons/moons_new.csv"),$async$u3)
+return A.U(q.u0("https://raw.githubusercontent.com/REMAR-Project/remar-web-test/main/assets/assets/moons/moons_new.csv"),$async$u3)
 case 2:o=b
 s=3
-return A.U(q.u0("assets/moons/moons_full.csv"),$async$u3)
+return A.U(q.u0("https://raw.githubusercontent.com/REMAR-Project/remar-web-test/main/assets/assets/moons/moons_full.csv"),$async$u3)
 case 3:q.a3(new p.amy(q,o,b))
 return A.M(null,r)}})
 return A.N($async$u3,r)},
